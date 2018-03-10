@@ -8,10 +8,6 @@ PMs        | BAs     | UX         | Digital Design |
 Sysadmins  | BOFHs   | 1337 4X0RZ | etc...
 ```
 
-* Technology workers are not special.
-* We think we are, but we are not.
-* We need to get over it.
-
 We represent over 10% of the UK economy and just like everyone else, we need:
 
 * Protection
